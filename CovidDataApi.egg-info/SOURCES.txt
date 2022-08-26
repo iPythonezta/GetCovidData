@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+CovidDataApi.egg-info/PKG-INFO
+CovidDataApi.egg-info/SOURCES.txt
+CovidDataApi.egg-info/dependency_links.txt
+CovidDataApi.egg-info/requires.txt
+CovidDataApi.egg-info/top_level.txt
+CovidDataApi/src/__init__.py
+CovidDataApi/src/covidApi.py
