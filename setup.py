@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text()
 setuptools.setup(
 
     name="GetCovidData",
-    version="1.1.1",
+    version="1.1.2",
     author="Huzaifa Azhar",
     description="A simple python package to get Covid Stats just by using simple commands!",
     readme = "README.md",
