@@ -6,7 +6,7 @@ import re
 
 class CovidApi:
     def __init__(self):
-        self.name = 'Covid19DataApi'
+        self.name = 'CovidApi'
         self.website = "https://www.worldometers.info/coronavirus/"
     
     def get_covid_info(self, display=True):
