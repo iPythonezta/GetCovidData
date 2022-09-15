@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: CovidDataApi
+Name: GetCovidData
 Version: 1.0.0
 Summary: A simple python package to get Covid Stats just by using simple commands!
 Author: Huzaifa Azhar
