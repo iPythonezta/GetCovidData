@@ -21,3 +21,23 @@ Here is how to use this package (for more details about <b> syntax</b> and <b> f
 <tr><td><b>get_covid_all_countriesJSON()</b></td><td>None</td><td>Retuens a JSON object with Covid Info in all countries</td></tr>
 <tr><td><b>get_covid_in_countries()</b></td><td>*args countries(countries to get covid data of), json= False</td><td>Return a pandas dataframe containing covid info in given countries. You can pass as many countries as you want. If json=True it will return a JSON object instead</td></tr>
 </table>
+
+<h1> Example of USE </h1>
+
+![Covid Api Use case example](https://user-images.githubusercontent.com/87518251/190380274-8b21e9ca-fbb6-4a37-8b35-79bb02e6d203.png)
+
+ 
+ ## Output 
+ 
+ ![Out put of the above code snippet](https://user-images.githubusercontent.com/87518251/190379958-d57e4ed5-4d9c-4580-841d-9cd7586ef6c5.png)
+
+<p> For more information on <b> how to use this package </b> refer to the <b><i> eamples.py</i></b> file! You can alse get details of each function by using this code snippet <p>
+
+![Use this code snippet for help](https://user-images.githubusercontent.com/87518251/190381383-0d8b2737-7df1-42b6-92d6-cec1474044f9.png)
+
+
+
+<h1> Future Plan </h1>
+
+In future we plan  to add more functionality to the API giving you access to more data. <br>
+
