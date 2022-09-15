@@ -14,10 +14,10 @@ Here is how to use this package (for more details about <b> syntax</b> and <b> f
 
 <table>
 <tr><th>Function</th><th>Params:</th><th>What it does!</th></tr>
-<tr><td>get_covid_info ()</td><td> display (True/False), default=True</td><td>Return a JSON object with the latest info of Covid like "Active cases". If diplay=True it will also print the covid info.</td></tr>
-<tr><td>get_covid_by_continent ()</td><td>None</td><td>Returns a pandas dataframe containing the Covid Info in all continents!</td></tr>
-<tr><td>get_covid_by_continentJSON()</td><td>None</td><td>Retuens a JSON object with Covid Situation in all continents</td></tr>
-<tr><td>get_covid_all_countries()</td><td>None</td><td>Returns a pandas DataFrame containing Covid Info in all countries</td></tr>
-<tr><td>get_covid_all_countriesJSON()</td><td>None</td><td>Retuens a JSON object with Covid Info in all countries</td></tr>
-<tr><td>get_covid_in_countries()</td><td>*args countries(countries to get covid data of), json= False</td><td>Return a pandas dataframe containing covid info in given countries. You can pass as many countries as you want. If json=True it will return a JSON object instead</td></tr>
+<tr><td><b>get_covid_info ()</b></td><td> display (True/False), default=True</td><td>Return a JSON object with the latest info of Covid like "Active cases". If diplay=True it will also print the covid info.</td></tr>
+<tr><td><b>get_covid_by_continent ()</b></td><td>None</td><td>Returns a pandas dataframe containing the Covid Info in all continents!</td></tr>
+<tr><td><b>get_covid_by_continentJSON()</b></td><td>None</td><td>Retuens a JSON object with Covid Situation in all continents</td></tr>
+<tr><td><b>get_covid_all_countries()</b></td><td>None</td><td>Returns a pandas DataFrame containing Covid Info in all countries</td></tr>
+<tr><td><b>get_covid_all_countriesJSON()</b></td><td>None</td><td>Retuens a JSON object with Covid Info in all countries</td></tr>
+<tr><td><b>get_covid_in_countries()</b></td><td>*args countries(countries to get covid data of), json= False</td><td>Return a pandas dataframe containing covid info in given countries. You can pass as many countries as you want. If json=True it will return a JSON object instead</td></tr>
 </table>
